@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+  <!-- Background (optional) -->
+  <rect width="300" height="200" fill="white"/>
+  
+  <!-- Hearts centered in viewbox -->
+  <g transform="translate(75, 50)">
+    <path d="M85,100 C85,60 145,60 145,100 L115,130 L85,100" fill="#FF1493"/>
+    <path d="M145,100 C145,60 205,60 205,100 L175,130 L145,100" fill="#9370DB"/>
+  </g>
+</svg>
